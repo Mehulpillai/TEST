@@ -1,0 +1,83 @@
+body {
+  text-align: center;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+/* top-Container is the div of the  top*/
+
+.top-Container {
+  position: relative;
+  height: 500px;
+  background-color: #C1F4C5;
+}
+
+/*P is the Base_1*/
+
+.Base_1 {
+  position: relative;
+  top: 21%;
+}
+
+/*Name1 is h1 tag*/
+.Name_1 {
+  position: relative;
+  top: 25%;
+  margin: 0;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+/*cloud 1*/
+
+.cloud1 {
+  position: absolute;
+  top: 15%;
+  right: 15%;
+}
+
+.cloud2{
+  position: absolute;
+  top:30%;
+  left:15%
+}
+
+/*mountain*/
+
+.mountain{
+  position: relative;
+  top:25%;
+  width: 50%;
+}
+
+/* middle-Container is the div of the  middle*/
+
+.middle-Container {
+height: 500px;
+background-color: #B6FFCE;
+}
+
+/* profile div */
+
+.profile {
+  height: 270px;
+  background-color: #B6FFCE;
+
+}
+
+/* skills div */
+.skills {
+  height: 100px;
+
+
+}
+/* bottom-Container is the div of the  bottom*/
+
+.bottom-Container {
+height: 350px;
+background-color: #91C483;
+}
